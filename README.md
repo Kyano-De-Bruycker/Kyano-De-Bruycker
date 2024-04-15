@@ -3,10 +3,10 @@
 I have been fascinated by the world of technology since I was a teenager, and I am constantly looking for the latest gadgets and innovations. With my clear 
 explanations, I like to make complex material accessible to both laymen and professionals.
 
-# Languages & tools I use:
+## Languages & tools I use:
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="css" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="vscode" width="35" height="35"/>
 </p>
 
